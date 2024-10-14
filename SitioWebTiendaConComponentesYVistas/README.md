@@ -1,24 +1,30 @@
-# mysite
+# Proyecto Vue.js - Sitio Web Informativo
 
-## Project setup
-```
-npm install
-```
+## Descripción
+Este es un proyecto desarrollado con Vue.js que incluye varias vistas como "Inicio", "Acerca de Nosotros", "Servicios" y "Contacto", además de componentes reutilizables como un menú de navegación y una lista filtrable.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Requisitos
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Antes de ejecutar este proyecto, asegúrate de tener instalado:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- [Node.js](https://nodejs.org/) (versión 12 o superior)
+- [Vue CLI](https://cli.vuejs.org/guide/installation.html)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Instalación
+
+Sigue estos pasos para instalar y ejecutar el proyecto localmente:
+
+1. Clona este repositorio:
+
+   ```
+   git clone https://github.com/tu-usuario/tu-repositorio.git
+   ```
+2. Navega al directorio del proyecto:
+   ```
+   cd tu-repositorio
+
+   ```
+3. Instala las dependencias del proyecto:
+   ```
+   npm install
+   ```
