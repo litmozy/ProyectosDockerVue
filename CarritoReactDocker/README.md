@@ -28,3 +28,22 @@ Clona el repositorio a tu máquina local.
 ```bash
 git clone https://github.com/litmozy/ProyectosDockerVue.git
 cd CarritoReactDocker
+```
+### 2. Construir y Ejecutar con Docker
+
+A continuación, se detallan los pasos para construir y ejecutar la aplicación usando Docker.
+
+#### Paso 1: Construir la Imagen Docker
+```bash
+docker build -t carrito-compras-react .
+```
+#### Paso 2: Ejecutar el Contenedor Docker
+```
+docker run -d -p 8080:80 carrito-compras-react
+```
+Este comando ejecutará el contenedor en segundo plano (-d) y expondrá el puerto 8080 de tu máquina local al puerto 80 dentro del contenedor donde Nginx está sirviendo la aplicación.
+#### Paso 3: Abrir aplicación
+Después de ejecutar el contenedor, abre tu navegador web y navega a:
+```
+http://localhost:8080
+```
