@@ -26,7 +26,7 @@ Antes de empezar, asegúrate de tener las siguientes herramientas instaladas:
 Clona el repositorio a tu máquina local.
 
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue.git
+git clone https://github.com/litmozy/ProyectosDockerVue/CarritoReactDocker.git
 cd CarritoReactDocker
 ```
 ### 2. Construir y Ejecutar con Docker
