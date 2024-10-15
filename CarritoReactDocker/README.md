@@ -22,8 +22,8 @@ Antes de empezar, asegúrate de tener las siguientes herramientas instaladas:
 
 ## Instalación y Configuración
 
-### 1. Clonar el Repositorio
-Clona el repositorio a tu máquina local.
+### 1. Clonar el Repositorio o Descargar el Repositorio
+Clona el repositorio a tu máquina local o descargar el fólder, luego navega:
 
 ```
 # Luego de descargar fólder de repositorio:
