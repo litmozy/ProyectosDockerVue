@@ -19,7 +19,7 @@ El proyecto está organizado en dos carpetas principales:
 Primero, clona este repositorio en tu máquina local con el siguiente comando:
 
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/CarritoReactDocker.git
+# Luego de descargar fólder de repositorio:
 cd CarritoReactDocker
 ```
 ### 2. Ejecutar Docker Compose
