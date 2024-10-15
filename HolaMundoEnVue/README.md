@@ -15,7 +15,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu máquina:
 Clona este repositorio en tu máquina local usando el siguiente comando:
 
 ```
-git clone https://github.com/tu-usuario/nombre-del-repo.git
+git clone https://github.com/litmozy/ProyectosDockerVue/HolaMundoEnVue.git
 cd HolaMundoEnVue
 ```
 
