@@ -11,8 +11,8 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu máquina:
 
 ## Instalación y Configuración
 
-### 1. Clonar el Repositorio
-Clona este repositorio en tu máquina local usando el siguiente comando:
+### 1. Descargar fólder de repositorio
+O clona este repositorio en tu máquina local, luego navega al fólder:
 
 ```
 # Luego de descargar fólder de repositorio:
