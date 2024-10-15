@@ -14,11 +14,7 @@ Antes de ejecutar este proyecto, asegúrate de tener instalado:
 
 Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
-1. Clona este repositorio:
-
-   ```
-   git clone https://github.com/litmozy/ProyectosDockerVue/SitioWebTiendaConComponentesYVistas
-   ```
+1. Descarga el fólder de repositorio
 2. Navega al directorio del proyecto:
    ```
    cd SitioWebTiendaConComponentesYVistas
