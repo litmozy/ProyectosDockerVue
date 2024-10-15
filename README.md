@@ -13,7 +13,7 @@ Este proyecto es un sitio web informativo creado con Vue.js, que incluye varias 
 
 ### Instalación
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/SitioWebTiendaConComponentesYVistas
+# Luego de descargar fólder de repositorio:
 cd SitioWebTiendaConComponentesYVistas
 npm install
 npm run serve
@@ -30,7 +30,7 @@ Una aplicación Vue.js que muestra personajes de "Rick and Morty" obtenidos desd
 
 ### Instalación
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/PersonajesRickAndMorty.git
+# Luego de descargar fólder de repositorio:
 cd PersonajesRickAndMorty
 docker build -t rick-morty-app .
 docker run -d -p 8080:8080 rick-morty-app
@@ -48,7 +48,7 @@ Un proyecto básico que muestra un "Hola Mundo" en Vue.js, utilizando componente
 
 ### Instalación
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/HolaMundoEnVue.git
+# Luego de descargar fólder de repositorio:
 cd HolaMundoEnVue
 npm install
 npm run serve
@@ -66,7 +66,7 @@ Aplicación full-stack con Node.js, React y MySQL para gestionar una lista de pr
 
 ### Instalación
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/CarritoReactDocker.git
+# Luego de descargar fólder de repositorio:
 cd CarritoReactDocker
 docker-compose up --build
 ```
@@ -82,7 +82,7 @@ Aplicación de carrito de compras construida con React y desplegada con Docker y
 
 ### Instalación
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/CarritoReactDocker.git
+# Luego de descargar fólder de repositorio:
 cd CarritoReactDocker
 docker build -t carrito-compras-react .
 docker run -d -p 8080:80 carrito-compras-react
