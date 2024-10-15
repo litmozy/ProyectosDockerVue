@@ -21,7 +21,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
    ```
 2. Navega al directorio del proyecto:
    ```
-   cd ProyectosDockerVue
+   cd SitioWebTiendaConComponentesYVistas
 
    ```
 3. Instala las dependencias del proyecto:
