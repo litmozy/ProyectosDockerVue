@@ -19,8 +19,8 @@ El proyecto está organizado en dos carpetas principales:
 Primero, clona este repositorio en tu máquina local con el siguiente comando:
 
 ```
-git clone https://github.com/tu-usuario/nombre-del-repo.git
-cd nombre-del-repo
+git clone https://github.com/litmozy/ProyectosDockerVue/CarritoReactDocker.git
+cd CarritoReactDocker
 ```
 ### 2. Ejecutar Docker Compose
 Para iniciar todos los servicios (backend, frontend y base de datos MySQL), ejecuta el siguiente comando en la raíz del proyecto:
