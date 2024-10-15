@@ -15,8 +15,8 @@ El proyecto está organizado en dos carpetas principales:
 
 ## Pasos para Configurar y Ejecutar el Proyecto
 
-### 1. Clonar el Repositorio
-Primero, clona este repositorio en tu máquina local con el siguiente comando:
+### 1. Descargar el fólder de repositorio o clonar:
+Y luego navega:
 
 ```
 # Luego de descargar fólder de repositorio:
