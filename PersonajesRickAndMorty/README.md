@@ -22,8 +22,8 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu máquina:
 Clona este repositorio en tu máquina local usando el siguiente comando:
 
 ```
-git clone https://github.com/tu-usuario/rick-and-morty-app.git
-cd rick-and-morty-app
+git clone https://github.com/litmozy/ProyectosDockerVue/PersonajesRickAndMorty.git
+cd PersonajesRickAndMorty
 ```
 
 ### 2. Construir y Ejecutar con Docker
