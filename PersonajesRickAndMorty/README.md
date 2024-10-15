@@ -22,7 +22,7 @@ Antes de comenzar, asegúrate de tener lo siguiente instalado en tu máquina:
 Clona este repositorio en tu máquina local usando el siguiente comando:
 
 ```
-git clone https://github.com/litmozy/ProyectosDockerVue/PersonajesRickAndMorty.git
+# Luego de descargar fólder de repositorio:
 cd PersonajesRickAndMorty
 ```
 
